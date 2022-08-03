@@ -33,6 +33,8 @@ int main() {
   {
     amount = 30 * 50 + (dist - 30) * 40
   }
+
+  printf("The amount is %d", amount);
   
   return 0;
 }
